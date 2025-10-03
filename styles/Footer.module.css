@@ -1,0 +1,12 @@
+.rxFtWrap {
+  margin-top: 50px;
+  padding: 15px;
+  border-top: 1px solid #1c2d2f;
+  text-align: center;
+  background-color: #0f1b1e;
+}
+
+.rxFtTxt {
+  font-size: 0.9rem;
+  color: #80deea;
+}

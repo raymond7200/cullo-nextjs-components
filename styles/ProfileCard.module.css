@@ -1,0 +1,36 @@
+.rxPfCard {
+  max-width: 320px;
+  margin: 30px auto;
+  padding: 60px;
+  border: 1px solid #1c2d2f;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.5);
+  background-color: #142526;
+  text-align: center;
+  color: #e0f7fa;
+}
+
+.rxPfImg {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 15px;
+  border: 3px solid #00bcd4;
+}
+
+.rxPfName {
+  font-size: 1.6rem;
+  margin: 5px 0;
+  color: #00e5ff;
+}
+
+.rxPfAge {
+  font-size: 1rem;
+  color: #80deea;
+}
+
+.rxPfDesc {
+  font-size: 1rem;
+  margin-top: 10px;
+  color: #b2ebf2;
+}

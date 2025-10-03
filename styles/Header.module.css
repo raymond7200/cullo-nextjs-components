@@ -1,0 +1,20 @@
+.rxHdWrap {
+  text-align: center;
+  padding: 10px;
+  background: linear-gradient(135deg, #0f1b1e, #183c40);
+  color: #e0f7fa;
+  border-bottom: 2px solid #00bcd4;
+}
+
+.rxHdTitle {
+  font-size: 2.5rem;
+  margin: 0;
+  letter-spacing: 1px;
+  color: #00bcd4;
+}
+
+.rxHdSub {
+  font-size: 1.2rem;
+  margin-top: 6px;
+  color: #80deea;
+}
